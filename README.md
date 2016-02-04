@@ -21,3 +21,11 @@ Small script for simple creation of NVO-KSK.txt file for class project for [Razd
 2.  After you created those files with specific format save them as CSV ( Comma Separated Values  `.csv` ) and place them instead of current examples ( zima.csv, ljeto.scv, prijelaz.csv ) but retain the same name.
 
 3.  Then in your script uncomment the instal.packages() line ( by deleting # in front of it ) and then select all lines and run the code. After code is completed you will have everything needed in ksk.txt file.
+   
+   ````R
+      # This is how it looks now
+      #install.packages('gdata')
+
+      # This is how it should look if you don't have gdata package
+      install.packages('gdata'
+   ````
