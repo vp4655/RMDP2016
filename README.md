@@ -14,7 +14,10 @@ Small script for simple creation of NVO-KSK.txt file for class project for [Razd
 
 ##Usage
 
-1. There are currently test examples of required `.csv` files required for script to work. There is also folder `excel_files` with example of `.xlsx` files you have before you need to bind them to one `.txt` file. 
-..1. In those examples you can see how to organize your `.xlsx` files for this script to work properly. 
-2. After you created those files with specific format save them as CSV ( Comma Separated Values  `.csv` ) and place them instead of current examples ( zima.csv, ljeto.scv, prijelaz.csv ) but with the same name.
-3. Then in your script uncomment the instal.packages() lines ( by deleting # in front of it ) and then select all lines and run the code. After code is completed you will have everything needed in ksk.txt file.
+1.  There are currently test examples of required `.csv` files required for script to work. There is also folder `excel_files` with example of `.xlsx` files you have before you need to bind them to one `.txt` file. 
+
+    *  In those examples you can see how to organize your `.xlsx` files for this script to work properly. 
+
+2.  After you created those files with specific format save them as CSV ( Comma Separated Values  `.csv` ) and place them instead of current examples ( zima.csv, ljeto.scv, prijelaz.csv ) but retain the same name.
+
+3.  Then in your script uncomment the instal.packages() line ( by deleting # in front of it ) and then select all lines and run the code. After code is completed you will have everything needed in ksk.txt file.
